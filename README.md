@@ -8,7 +8,7 @@
 2nd objectif en cours => Conceptrice développeuse d'application</h3>
 <br>
 
-- 🔭 Je travail en ce moment sur : **Recipepedia (android mobile app) avec l'implémentation d'une feature IA assistant cuisine**
+- 🔭 Je travail en ce moment sur : **Recipepedia (JAVA ANDROID mobile app) avec l'implémentation d'une feature IA assistant cuisine**
 
 - 🌱 Actuellement en pleine apprentissage de **PHP et Symfony.**
 
