@@ -1,16 +1,12 @@
 <h1 align="center">Hello moi c'est Sarah une gen Z dans la tech !</h1>
  <p align="center">Après presque 3 ans d’entrepreneuriat et d’apprentissage dans le e-commerce je me suis passionnée pour la création de site/design!! Je me lance alors dans la découverte du développement web et tout ce qui s'y cache.. Je me forme chez Simplon lors de 2 formations (SWIFT) ou je rencontre des professionnels je me familiarise avec le développement mobile puis je me forme à L'ADRAR pour devenir développeuse web/mobile ! Je découvre enfin mon domaine, la tech. </p><br>
 <br>
-<h3>
-1er objectif atteint => développeuse web/ web mobile ✅ 
-  <br>
-  <br>
-2nd objectif en cours => Conceptrice développeuse d'application</h3>
+
 <br>
 
 - 🔭 Je travail en ce moment sur : **Recipepedia (JAVA ANDROID mobile app) avec l'implémentation d'une feature IA assistant cuisine**
 
-- 🌱 Actuellement en pleine apprentissage de **PHP et Symfony.**
+- 🌱 Actuellement en pleine apprentissage de **Angular.**
 
 - 📫 Contact moi : **sarah.iglla@gmail.com**
 
